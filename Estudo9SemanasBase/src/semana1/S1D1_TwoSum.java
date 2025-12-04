@@ -19,7 +19,7 @@ public class S1D1_TwoSum {
         }
 
         return new int[] {};
-    }
+	}
 
 }
 
@@ -37,4 +37,4 @@ public class S1D1_TwoSum {
  * resolver o problema de Two Sum de forma otimizada.
  * 
  * */
- */
+ 

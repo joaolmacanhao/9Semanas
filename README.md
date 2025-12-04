@@ -923,4 +923,4 @@ Agora você tem:
 ✔️ Testes
 ✔️ Segurança
 ✔️ DevOps
-✔️ E mais de 60 desafios épicos
+✔️ E mais de 60 desafios épicos  
